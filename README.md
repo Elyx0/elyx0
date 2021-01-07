@@ -3,7 +3,7 @@
 
 Sup', I'm **Elyx0 🦄**.
 
-I'm working on the future of video chat, one pixel at a time.
+Now working on the future of crypto w/ charged particles, one block at a time.
 
 I built and maintain 
 ![npm](https://img.shields.io/npm/dt/react-native-document-picker?label=react-native-document-picker)
