@@ -3,7 +3,9 @@
 
 Sup', I'm **Elyx0 🦄**.
 
-Now working on the future of crypto w/ charged particles, one block at a time.
+Now working on the future of crypto & MEV w/ Polygon-Fast-Lane, one block at a time.
+
+Prev @charged-particles.
 
 I built and maintain 
 ![npm](https://img.shields.io/npm/dt/react-native-document-picker?label=react-native-document-picker)
